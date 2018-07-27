@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.245,C:\Users\Jens Borrisholt\Documents\Delphi Projects\Freeze Detection\Unit1.pas=C:\Users\Jens Borrisholt\Documents\Delphi Projects\Freeze Detection\StackTrace.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.096,=C:\Users\Jens Borrisholt\Documents\Delphi Projects\Freeze Detection\Unit1.pas</Transaction>
+    <Transaction>2018-07-27 16:59:58.586,C:\Users\Jens\Documents\Delphi Projects\Freeze Detection\StackTraceU.pas=C:\Users\Jens\Documents\Delphi Projects\Freeze Detection\StackTrace.pas</Transaction>
+  </Transactions>
+</BorlandProject>
